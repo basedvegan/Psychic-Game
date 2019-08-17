@@ -1,6 +1,11 @@
 # Psychic-Game
-week 3 homework
+
+https://basedvegan.github.io/Psychic-Game/
 
 instructions!
 
-player presses any key to guess what letter the computer is guessing. player has 9 tries before the computer declares the player has lost and then chooses a new letter. wins and losses are logged as the player continues guessing and the letters already chosen are presented until a win or loss then resets. 
+Player presses any key to guess what letter the computer is guessing. 
+
+Player has 9 tries before the computer declares the player has lost and then chooses a new random letter. 
+
+Wins and losses are logged as the player continues guessing and the letters already chosen are presented until a win or loss then resets. 
